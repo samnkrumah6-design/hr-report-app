@@ -1,0 +1,1 @@
+Terminal Academic Report Generator
