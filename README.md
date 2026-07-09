@@ -1,1 +1,1 @@
-Terminal Academic Report Generator
+index.html
